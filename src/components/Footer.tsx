@@ -9,7 +9,7 @@ import { ThemeColorToggleList } from "./ThemeColorToggle";
 const FOOTER_CONFIG = {
   github_thu_course_frontend: "https://github.com/ttymayor/thu-course-frontend",
   github_thu_course_crawler: "https://github.com/ttymayor/thu-course-crawler",
-  github: "https://github.com/ttymayor",
+  github: "https://github.com/tantuyutty",
 };
 
 export default function Footer() {
